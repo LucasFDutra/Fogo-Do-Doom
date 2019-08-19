@@ -7,8 +7,6 @@ Esse projeto irá contar com quatro versões.
 - Utilizando react
 - Utilizando react-native
 
-Essas duas ultimas é só porque deve ser muito massa de fazer e bom para aprender algo.
+As versões com react tiveram um desempenho muito ruim, e não sei porque, porvavelmente um pouco de falta de conhecimento de minha parte, mas eu só estou começando a estudar react, então vamos com calma.
 
-Versão JavaScript pronta
-Minha versão js pronta
-minha versão React pronta (mas ficou muito lenta e estranha comparada com as versões em js puro)
+A versão mobile, tem um apk que gerei e coloquei aqui, mas tem um pequeno segredo para funcionar, o botão de start precisa ser prescionado duas vezes. É, uma vez você aperta, espera aparecer a imagem inicial, depois aperta novamente ai ele começa de verdade. O motivo disso eu desconheço.
