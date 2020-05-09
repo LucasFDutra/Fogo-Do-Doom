@@ -42,8 +42,6 @@ const fireColorsPalette = [
   { r: 255, g: 255, b: 255 }
 ];
 
-// useEffect(() => renderFire(), [firePixelArray]);
-
 const start = () => {
   createFireDataStruct();
   createFireSource();
